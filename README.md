@@ -4,6 +4,8 @@ Light custom UI themes for Sublime Text 2 and Sublime Text 3.
 
 Project site: [https://github.com/zcox/soda-solarized-light-theme](https://github.com/zcox/soda-solarized-light-theme)
 
+Created by applying [solarized light](http://ethanschoonover.com/solarized) colors to [https://github.com/electricgraffitti/soda-solarized-dark-theme](https://github.com/electricgraffitti/soda-solarized-dark-theme).
+
 ## Design
 
 ![Soda SolarizedLight Theme](img/screenshot2.png)
