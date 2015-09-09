@@ -1,20 +1,22 @@
-# Soda SolarizedDark Theme
+# Soda SolarizedLight Theme
 
-Dark custom UI themes for Sublime Text 2 and Sublime Text 3.
+Light custom UI themes for Sublime Text 2 and Sublime Text 3.
 
-Project site: [https://github.com/electricgraffitti/soda-solarized-dark-theme](https://github.com/electricgraffitti/soda-solarized-dark-theme)
+Project site: [https://github.com/zcox/soda-solarized-light-theme](https://github.com/zcox/soda-solarized-light-theme)
 
 ## Design
 
-![Soda SolarizedDark Theme](https://dl.dropboxusercontent.com/u/3105141/C2CDN/Soda-SolarizedDark-theme.png)
+![Soda SolarizedLight Theme](img/screenshot1.png)
 
 ## Installation
 
-Soda SolarizedDark theme is designed to work with the latest development builds of Sublime Text, including [Sublime Text 2](http://www.sublimetext.com/dev) and [Sublime Text 3](http://www.sublimetext.com/3dev).
+Soda SolarizedLight theme is designed to work with the latest development builds of Sublime Text, including [Sublime Text 2](http://www.sublimetext.com/dev) and [Sublime Text 3](http://www.sublimetext.com/3dev).
 
 ### Using Sublime Package Control
 
-If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda SolarizedDark Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Soda SolarizedDark` in the packages list.
+NOTE - this is not working yet!!!!!!!!!! Use Git instructions below!!!!!!!!!!!!!!!!1
+
+If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda SolarizedLight Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Soda SolarizedLight` in the packages list.
 
 ### Using Git
 
@@ -24,37 +26,38 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/electricgraffitti/soda-solarized-dark-theme "Theme - Soda SolarizedDark SolarizedDark"
+    git clone https://github.com/zcox/soda-solarized-light-theme "Theme - Soda SolarizedLight"
 
 
 ## Activating the theme
 
 * Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
-* Add (or update) your theme entry to be  `"theme": "Soda SolarizedDark.sublime-theme"`
+* Add (or update) your theme entry to be  `"theme": "Soda SolarizedLight.sublime-theme"`
 
 **Example Sublime Text 2/3 User Settings**
 
     {
-        "theme": "Soda SolarizedDark.sublime-theme"
+        "theme": "Soda SolarizedLight.sublime-theme",
+        "color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
     }
 
 ## Additional Features
 
 ### Alternate Tab Styles
 
-Soda SolarizedDark Theme ships with flat tabs only at this time.
+Soda SolarizedLight Theme ships with flat tabs only at this time.
 
 ### Syntax Highlighting Colour Schemes
 
-* The color scheme used in Solarized(Dark)
+* The color scheme used in Solarized(Light)
 
 ### Code Font
 
-The code font shown in the screenshot is Inconsolata.
+The code font shown in the screenshot is [Hack](http://sourcefoundry.org/hack/).
 
 ## Thanks
 
-Thanks to Ian Hill for his excellent Soda Theme to build from
+Thanks to Ian Hill for his excellent Soda Theme to build from, and electricgraffitti for his excellent port to Solarized Dark.
 
 ## License
 
