@@ -525,7 +525,7 @@
     // General labels
     {
         "class": "label_control",
-        "color": [253, 246, 227]
+        "color": [101, 123, 131]
     },
     // Text field labels
     {
@@ -538,6 +538,7 @@
     {
         "class": "label_control",
         "parents": [{"class": "button_control"}],
+        "color": [253, 246, 227],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 0]
     },
@@ -873,9 +874,9 @@
     // Text input field item
     {
         "class": "text_line_control",
-        "layer0.tint": [220, 50, 47],
-        "layer1.tint": [220, 50, 47],
-        "layer2.tint": [220, 50, 47],
+        "layer0.tint": [253, 246, 227],
+        "layer1.tint": [253, 246, 227],
+        "layer2.tint": [253, 246, 227],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
