@@ -6,7 +6,7 @@ Project site: [https://github.com/zcox/soda-solarized-light-theme](https://githu
 
 ## Design
 
-![Soda SolarizedLight Theme](img/screenshot1.png)
+![Soda SolarizedLight Theme](img/screenshot2.png)
 
 ## Installation
 
