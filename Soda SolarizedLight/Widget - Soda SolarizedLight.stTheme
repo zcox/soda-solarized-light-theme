@@ -32,6 +32,10 @@
       </dict>
     </dict>
     <dict>
+      <key>gutter</key>
+      <string>#fdf6e3</string>
+    </dict>
+    <dict>
       <key>name</key>
       <string>Comment</string>
       <key>scope</key>
