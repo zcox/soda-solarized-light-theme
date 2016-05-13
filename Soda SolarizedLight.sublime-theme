@@ -61,9 +61,9 @@
     {
         "class": "tab_control",
         "attributes": ["selected"],
-        "layer0.tint": [147, 161, 161],
-        "layer1.tint": [147, 161, 161],
-        "layer2.tint": [147, 161, 161],
+        "layer0.tint": [253, 246, 227],
+        "layer1.tint": [253, 246, 227],
+        "layer2.tint": [253, 246, 227],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -249,7 +249,7 @@
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["selected"]}],
-        "fg": [253, 246, 227]
+        "fg": [7, 54, 66]
     },
     {
         "class": "tab_label",
