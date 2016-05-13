@@ -7,9 +7,9 @@
     // Tab set
     {
         "class": "tabset_control",
-        "layer0.tint": [253, 246, 227],
-        "layer1.tint": [253, 246, 227],
-        "layer2.tint": [253, 246, 227],
+        "layer0.tint": [238, 232, 213],
+        "layer1.tint": [238, 232, 213],
+        "layer2.tint": [238, 232, 213],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
